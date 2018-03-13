@@ -1,0 +1,12 @@
+Flex:1; - default base value 
+Flex:2; - 2 times bigger 
+Flex:3; - 3 times bigger
+
+order - basically rearranges the column or div the element
+
+align-items: stretch;
+
+
+Works only for mobile devices and responsive.
+display: flex;
+	justify-content: space-between;
